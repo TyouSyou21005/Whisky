@@ -24,7 +24,7 @@ const App = () => {
   return (
     <Layout>
       <Header>
-            <img src="public/2341704786947_.pic_hd.jpg" alt="Header" style={{ width: '70%', height: 'auto' }} /> 
+            <img src="imgs/2341704786947_.pic_hd.jpg" alt="Header" style={{ width: '70%', height: 'auto' }} /> 
             
       </Header>
       <Row>
@@ -53,9 +53,9 @@ const App = () => {
             蒸留した新しいウイスキーは樽に詰められ、数年以上にわたって熟成させられます。樽内でウイスキーは風味を吸収し、色と香りが変化します。熟成に使用される樽の種類や以前の中身（シェリーやバーボンなど）によって風味が異なります。このステップがウイスキーに独特の特性を与えます。
             <li>調合とボトリング：</li>
             熟成が終了したウイスキーは調合され、異なる樽から取り出された液体が組み合わされて、特定の味わいや風味を持つウイスキーが作られます。最終的に、ボトルに詰められて販売されます。<br></br>
-            <img src="public/2331704785827_.pic_hd.jpg" alt="Header" style={{ width: '33%', height: 'auto' }} /> 
-            <img src="public/2321704785796_.pic_hd.jpg" alt="Header" style={{ width: '33%', height: '29.7%' }} /> 
-            <img src="public/img2.png" alt="Header" style={{ width: '33%', height: '29.7%' }} /> 
+            <img src="imgs/2331704785827_.pic_hd.jpg" alt="Header" style={{ width: '33%', height: 'auto' }} /> 
+            <img src="imgs/2321704785796_.pic_hd.jpg" alt="Header" style={{ width: '33%', height: '29.7%' }} /> 
+            <img src="imgs/img2.png" alt="Header" style={{ width: '33%', height: '29.7%' }} /> 
           </div>
 
           <div id="part-2" style={{ height: '100vh', background: 'rgba(0,255,0,0.02)' }}>
@@ -79,9 +79,9 @@ const App = () => {
               <li>日本のウイスキー：バランスと精密さが評価され、デリケートでフルーティなものからスモーキーでピートの風味があるものまで、幅広い風味があります。</li>
             </p>
             <p>各地域内で、さまざまなウイスキーのスタイルと風味が存在し、個々の蒸留所が独自の表現を生み出しています。さまざまな地域のウイスキーを試飲することで、この愛されるスピリッツの幅広い風味と香りを探求できます。<br></br></p>
-            <img src="public/img4.png" alt="Header" style={{ width: '33%', height: '40%' }} />
-            <img src="public/JPw.png" alt="Header" style={{ width: '33%', height: '40.5%' }} />
-            <img src="public/USw.png" alt="Header" style={{ width: '33%', height: '40.2%' }} />
+            <img src="imgs/img4.png" alt="Header" style={{ width: '33%', height: '40%' }} />
+            <img src="imgs/JPw.png" alt="Header" style={{ width: '33%', height: '40.5%' }} />
+            <img src="imgs/USw.png" alt="Header" style={{ width: '33%', height: '40.2%' }} />
           </div>
           <div id="part-3" style={{ height: '100vh', background: 'rgba(0,0,255,0.02)' }}>
             代表的な初心者向け製品 - Iconic Whiskies for Beginners
@@ -100,12 +100,12 @@ const App = () => {
             <li>ザ・グレンリベット 12年</li>
             スコットランドのシングルモルト・スコッチ・ウイスキーで、フルーツとハニーの風味が楽しめる初心者向けの選択肢です。
             </p>
-            <img src="public/2351704791923_.pic.jpg" alt="Header" style={{ width: '33%', height: '40%' }} />
-            <img src="public/2361704791969_.pic.jpg" alt="Header" style={{ width: '33%', height: '40%' }} />
-            <img src="public/2371704792046_.pic.jpg" alt="Header" style={{ width: '33%', height: '40%' }} />
-            <img src="public/2381704792082_.pic.jpg" alt="Header" style={{ width: '33%', height: '40%' }} />
-            <img src="public/2391704792112_.pic.jpg" alt="Header" style={{ width: '33%', height: '40%' }} />
-            <img src="public/2401704792203_.pic.jpg" alt="Header" style={{ width: '33%', height: '40%' }} />
+            <img src="imgs/2351704791923_.pic.jpg" alt="Header" style={{ width: '33%', height: '40%' }} />
+            <img src="imgs/2361704791969_.pic.jpg" alt="Header" style={{ width: '33%', height: '40%' }} />
+            <img src="imgs/2371704792046_.pic.jpg" alt="Header" style={{ width: '33%', height: '40%' }} />
+            <img src="imgs/2381704792082_.pic.jpg" alt="Header" style={{ width: '33%', height: '40%' }} />
+            <img src="imgs/2391704792112_.pic.jpg" alt="Header" style={{ width: '33%', height: '40%' }} />
+            <img src="imgs/2401704792203_.pic.jpg" alt="Header" style={{ width: '33%', height: '40%' }} />
           </div>
         </Col>
         <Col span={6}>
