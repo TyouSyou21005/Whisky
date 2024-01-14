@@ -24,8 +24,9 @@ const App = () => {
   return (
     <Layout>
       <Header>
-            <img src="/imags/2341704786947_.pic_hd.jpg" alt="Header" style={{ width: '70%', height: 'auto' }} /> 
-            
+        <div>
+          <img src="/imgs/2341704786947_.pic_hd.jpg" alt="Header" style={{ width: '70%', height: 'auto' }} /> 
+        </div>
       </Header>
       <Row>
         <Col span={18}>
